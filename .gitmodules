@@ -1,0 +1,3 @@
+[submodule "deps/PEGParser"]
+	path = deps/PEGParser
+	url = https://github.com/TheLartians/PEGParser.git

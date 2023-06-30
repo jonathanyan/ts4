@@ -11,6 +11,7 @@
 #include "tick.h"
 
 int main() {
-  tick::tick_run();
+  auto sql= std::make_unique<tick::SQL<float>>();
+  sql->exec();
   return 0;
 }

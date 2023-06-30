@@ -1,4 +1,1 @@
-int empty() {};
-
-
-
+void empty(){};
